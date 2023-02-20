@@ -7,4 +7,6 @@
 <br />
 <br />
 
+<div align="center">
 <h2>The first pocket size sommelier for wine lovers</h2>
+</div>
